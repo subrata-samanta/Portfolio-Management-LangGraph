@@ -1,0 +1,6 @@
+yfinance
+fredapi
+sec_edgar_downloader
+neo4j
+pyportfolioopt
+langchain_neo4j
